@@ -7,17 +7,17 @@
 
 
 ### 🧐 About Me
-<img width='200' align="right" src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200"'>
+<img width='200' align="right" src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='400"'>
 
 - 🇧🇷 &nbsp; I'm from Brazil
-- 🎓 &nbsp; I have a degree in Information Technology, but I only work on it as a hobby
+- 🎓 &nbsp; I have a degree in Information Technology, but I only work on it as a hobby (with personal projects)
 - 👨🏻‍⚕️ &nbsp; I'm currently studying to become a doctor
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/marcosgrm?tab=repositories)
-- 🎨 &nbsp; I'm a good designer
+- 🎨 &nbsp; I'm a good graphic designer
 - 📖 &nbsp; I love to read, learn and teach
 - 📸 &nbsp; Feel free to follow me on [Instagram](https://www.instagram.com/marcos.grm/)
 - 📝 &nbsp; Checkout my [resume](http://lattes.cnpq.br/3055080814315560)
-- 📫 How to reach me: [marcos.grm@yahoo.com](mailto:marcos.grm@yahoo.com)
+- 📫 &nbsp; How to reach me: [marcos.grm@yahoo.com](mailto:marcos.grm@yahoo.com)
 
 ### 🛠 Languages and Tools
 <p>
