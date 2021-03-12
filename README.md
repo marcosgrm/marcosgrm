@@ -1,4 +1,4 @@
-### Hello! Glad to see u here! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hey! Glad to see u here! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/marcosgrm)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marcosgrm)
@@ -43,7 +43,7 @@
 ### 📊 Github Stats
 ![marcosgrm github stats](https://github-readme-stats.vercel.app/api?username=marcosgrm&show_icons=true&hide_border=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosgrm&hide=TeX&layout=compact)
 
-&nbsp; &nbsp; &nbsp; [![trophy](https://github-profile-trophy.vercel.app/?username=marcosgrm)](https://github.com/ryo-ma/github-profile-trophy)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![trophy](https://github-profile-trophy.vercel.app/?username=marcosgrm)](https://github.com/ryo-ma/github-profile-trophy)
 
 <hr style="width:75%;text-align:center">
 <p align="center">
