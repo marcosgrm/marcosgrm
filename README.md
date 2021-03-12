@@ -35,15 +35,15 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
 </p>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 ### ♥ Main Projects
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gamificacaoalgoritmos&repo=SeLiga)](https://github.com/gamificacaoalgoritmos/SeLiga)
 
 ### 📊 Github Stats
- &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;![marcosgrm github stats](https://github-readme-stats.vercel.app/api?username=marcosgrm&show_icons=true&hide_border=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosgrm&hide=TeX&layout=compact)
+![marcosgrm github stats](https://github-readme-stats.vercel.app/api?username=marcosgrm&show_icons=true&hide_border=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosgrm&hide=TeX&layout=compact)
 
- &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![trophy](https://github-profile-trophy.vercel.app/?username=marcosgrm)](https://github.com/ryo-ma/github-profile-trophy)
+&nbsp; &nbsp; &nbsp; [![trophy](https://github-profile-trophy.vercel.app/?username=marcosgrm)](https://github.com/ryo-ma/github-profile-trophy)
 
 <hr style="width:75%;text-align:center">
 <p align="center">
