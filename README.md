@@ -48,7 +48,7 @@
 <hr style="width:75%;text-align:center">
 <p align="center">
 <img align='left' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100"'>
-<img alt="centered image" height="85" src="https://github.com/hjnilsson/country-flags/blob/master/svg/br.svg"/>
+<img alt="centered image" height="85" src="https://raw.githubusercontent.com/hampusborgos/country-flags/e7a82345a08b6d8d42e25d45f9747efc3cf360ba/svg/br.svg"/>
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100"'>
   <br>
   </p>
