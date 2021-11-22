@@ -11,7 +11,7 @@
 
 - 🇧🇷 &nbsp; I'm from Brazil
 - 🎓 &nbsp; I have a degree in Information Technology, but I only work on it as a hobby (with personal projects)
-- 👨🏻‍⚕️ &nbsp; I'm currently studying to become a doctor
+- 👨🏻‍⚕️ &nbsp; I'm a medical student 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/marcosgrm?tab=repositories)
 - 🎨 &nbsp; I'm a good graphic designer
 - 📖 &nbsp; I love to read, learn and teach
